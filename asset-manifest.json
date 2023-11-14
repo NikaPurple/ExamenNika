@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ExamenNika/static/css/main.36e7efb2.css",
+    "main.js": "/ExamenNika/static/js/main.635ba250.js",
+    "static/js/787.780f17ba.chunk.js": "/ExamenNika/static/js/787.780f17ba.chunk.js",
+    "index.html": "/ExamenNika/index.html",
+    "main.36e7efb2.css.map": "/ExamenNika/static/css/main.36e7efb2.css.map",
+    "main.635ba250.js.map": "/ExamenNika/static/js/main.635ba250.js.map",
+    "787.780f17ba.chunk.js.map": "/ExamenNika/static/js/787.780f17ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e7efb2.css",
+    "static/js/main.635ba250.js"
+  ]
+}
